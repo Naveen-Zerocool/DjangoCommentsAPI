@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'Comment.wsgi.application'
 
 DATABASES = {
     'default': dj_database_url.config(
-        default=config('DATABASE_URL')
+        default='postgres://vifporobkoikgc:194db3b3dfac34d7a78ce1ecf821731cfbc946a6d5ba5851341903833fb783d1@ec2-54-83-59-120.compute-1.amazonaws.com:5432/d5d48mte1jaj77'
     )
 }
 
