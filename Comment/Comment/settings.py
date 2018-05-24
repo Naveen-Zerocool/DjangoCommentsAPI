@@ -25,7 +25,7 @@ SECRET_KEY = '#btq-)b$^srohaf08wl&30d3*=du39hv-=cxq(e1%_g*c)fu7q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://comments-backend.herokuapp.com']
+ALLOWED_HOSTS = ['comments-backend.herokuapp.com']
 
 # Application definition
 
