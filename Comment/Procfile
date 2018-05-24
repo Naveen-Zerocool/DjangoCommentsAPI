@@ -1,0 +1,1 @@
+web: gunicorn Comment.wsgi --log-file -
